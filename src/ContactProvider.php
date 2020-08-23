@@ -33,6 +33,8 @@ class ContactProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__.'/config/contact.php' => config_path('contact.php'),
+            __DIR__.'/views' => resource_path('views/vendor/contactus'),
+            __DIR__.'/database/migrations' => database_path('migrations')
         ]);
     }
 }
