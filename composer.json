@@ -1,0 +1,19 @@
+{
+    "name": "thegr8dev/contactus",
+    "description": "Currently testing package developement",
+    "type": "librray",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thegr8dev",
+            "email": "ankitswonders@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Thegr8dev\\Contactus\\" : "src/"
+        }
+    }
+}
