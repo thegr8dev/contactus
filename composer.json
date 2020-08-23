@@ -15,5 +15,12 @@
         "psr-4": {
             "Thegr8dev\\Contactus\\" : "src/"
         }
-    }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thegr8dev\\Contactus\\ContactProvider"
+            ]
+        }
+    },
 }
