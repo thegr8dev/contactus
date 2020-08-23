@@ -1,6 +1,6 @@
 # Contact us Form Package
 
-[![release]https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/thegr8dev/contactus/tags)
+[![release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/thegr8dev/contactus/tags)
 <!-- ![License](https://img.shields.io/github/license/thegr8dev/contactus)
 ![Issues](https://img.shields.io/github/issues/thegr8dev/contactus?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/thegr8dev/contactus)
